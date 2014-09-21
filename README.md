@@ -1,4 +1,4 @@
 vespene
 =======
 
-I lightweight template based PHP CMS
+A lightweight template based PHP CMS
